@@ -8,7 +8,7 @@ if os.path.exists("local.env"):
 
 que = {}
 SESSION_NAME = getenv("SESSION_NAME", "BQC4vJLE5x5lqvWX7IfGBJCOGFhMP61QcP7RBteAYgiTBg537C43UuFko3C9ZLwsXlrq3Cqt6AtLiTOT45pb4a5N_AFVIYmKrp88b-ycEIgsWYVZa3v9Xjywt-wD1cPL_ClaUuu8dBo4ZGfP8qzPDN3V6a08DDFNKbL4o_uEEt3DXrucxFedfUcAEKK_byrh6Ll7JMLWUUxfN3t9aW08g3E5Zt6GpNDV8jcnbwYYT_i8DjK6x186npZqceHQUNGWZ-PyY9i_uH9l-GrLIV88E794BMxZ0vtvdgAuNJTWavskqfYYxyv-wXeMGrhgc0qMcLz0hggv9M8cXp64Zgr25jz6dzEe4wA")
-BOT_TOKEN = getenv("BOT_TOKEN", "1997614166:AAH4DQux1RwRZBs9mLrVlxK-_ayTlFGLtdA")
+BOT_TOKEN = getenv("BOT_TOKEN", "1997614166:AAHSbFMLoxyUdzHsnZxlq9eunG7YsKwNKes")
 BOT_NAME = getenv("BOT_NAME", "The VC Music Player")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "kernel4vince")
 BG_IMAGE = getenv("BG_IMAGE", "https://telegra.ph/file/967cad983cc374a730908.png")
