@@ -7,7 +7,7 @@ if os.path.exists("local.env"):
     load_dotenv("local.env")
 
 que = {}
-SESSION_NAME = getenv("SESSION_NAME", "BQCf6YlKKROZUwV1V2fivRx1X3FlP2sUXD0rF84xaZd4F0xMHT0swhBUSQyrkgxIGrOqqMz86jyGQvRfci2yCqy8nje2k7nqp4mU3jGCstuV8uuwbDC3aMo1cFGC5Lrl6DG1iyQ1F0v3YdTBpzCopFI9-0vzrphhQ3dufB495SR62v29jW4e8GoJMZOspQgPrh7NhuNyqK7rF8_OdPCmA75ucMBK9jfWqnvRBG1HN-fuW_xpep7WDRuRr9JhbGlW500PfecJe4ujp5bJw0zYlCHUZEfPivDqEmW9nx3GeOdLDR-Stxbwk1VFLZo06XkNPqS0grC6-kT9TWDt4I8ydzEe4wA")
+SESSION_NAME = getenv("SESSION_NAME", "BQAf2Ytkwtotz7h2Pvfr5ZbtJn93FU44pDOiBe0PTofq2ZzG94bOpemi12FCuAXggSBUdY6JsCwdDhSgQlP8PR2lHw1pdLrhh07WfvbZlb2katQqlCrDtUR8obKRIQMBakjdY5GAUHpdlQiH3E_E_bWzaHuCFjjduZn9_ETT8u3246WQPrN_zoo1NJi5ggJ2ozmiU-ycM8Yz2hSK9zUbh-J9-oiSXUrlkDVTVk9Ac43YzFo9MlN-GzwWyZAVwvSoeiDXEyl_vvdh3HF9J5oOGV8l6wW1ed79ubsAcQb78VgwzCJuVwe-N9e6qJL2z0I6nol3PG1oxawtWg4JskceAygTdzEe4wA")
 BOT_TOKEN = getenv("BOT_TOKEN", "1997614166:AAHSbFMLoxyUdzHsnZxlq9eunG7YsKwNKes")
 BOT_NAME = getenv("BOT_NAME", "The VC Music Player")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "kernel4vince")
